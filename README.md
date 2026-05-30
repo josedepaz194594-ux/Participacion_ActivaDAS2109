@@ -12,3 +12,8 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Participacion_ActivaDAS2109
+#### GitHub: Plataforma para alojar y gestionar proyectos de software mediante control de versiones.
+#### Ejemplo: Permite colaborar en proyectos utilizando repositorios y ramas.
+#### Agregado por: Sandra Claribel Sanchez Rosales — SR24010 
+#### ************************************************ 
