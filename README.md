@@ -12,3 +12,9 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Diagrama de clases: Es una representación gráfica utilizada en UML (Lenguaje Unificado de Modelado) que muestra la clases de un sistema, sus atributos, métodos y las relaciones que existen entre ellas-
+Ejemplo: Permite representar la estructura del sistema mostrando las clases, sus característica y como se relacionan entre si.
+Agregado por: Rosario Cecibel Cortez Navida - CN23003
+************************************************
+####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
