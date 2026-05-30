@@ -12,3 +12,9 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Estandares de Software
+#### Son importantes en la gestion de calidad del software
+#### Como parte de este proceso QA, pueden elegirse herramientas y metodos para apoyar el uso de dichos estandares
+
+#### Agregado por: Edenilson Perez
