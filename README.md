@@ -12,3 +12,7 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+##### Seguridad: conjuno de medidas y practicas para proteger la informacion y los sistemas informaticos
+##### Ejemplo: permite prevenir accesos no autorizados la perdida de datos y ataques ciberneticos
+#### Agregado por: David Valladares Campos_VC17036
+#### ***********************************************
