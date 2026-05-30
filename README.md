@@ -12,3 +12,7 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+####Java es un lenguaje de programación orientado a objetos que permite crear aplicaciones seguras, 
+####portables y eficientes para distintos tipos de dispositivos y sistemas operativos.
+
+### Creado por: Néstor Chávez
