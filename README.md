@@ -12,3 +12,9 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##Participacion_ActivaGL24015
+#### Diagrama UML: Unified Modeling Language o Lenguaje Unificado de Modelado
+#### Permite visualizar cómo estarán organizados los elementos de un sistema y cómo se relacionan entre sí.
+#### Agregado por Marta Lidia García López – GL24015
+####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
