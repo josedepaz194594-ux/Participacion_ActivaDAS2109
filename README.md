@@ -12,3 +12,10 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+###
+#### El uso importante de pelsin projec.
+#### Es importante por que nos ayuda a una mejor vision de las pantallas de login para nuestro proyecto.
+
+#### Creado por: Iris Lily Ortez Villalta
+####
