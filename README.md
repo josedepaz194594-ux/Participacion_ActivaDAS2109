@@ -12,3 +12,11 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+# Participacion_ActivaDAS2109
+#### Análisis de Requisitos: Es una etapa fundamental del Análisis de Sistemas que consiste en identificar, recopilar, documentar y comprender las necesidades de los usuarios y de la organización para desarrollar un sistema informático que resuelva un problema o mejore un proceso existente
+#### Ejemplo: Permite identificar las necesidades y funciones que debe cumplir el sistema.
+#### Agregado por: Ricardo Antonio Martínez Valencia — MV15056 
+#### ************************************************ 
+####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
