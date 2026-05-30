@@ -12,3 +12,8 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Participacion_ActivaDAS2109
+#### BASE DE DATOS: colección organizada de datos estructurados, almacenados digitalmente en un sistema informático.
+#### Ejemplo: Organizar datos en tsblas y columnas de forma ordenada
+#### Agregado por: Diego Javier González Velásquez - GV16016
+#### ************************************************ 
