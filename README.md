@@ -12,3 +12,7 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+#### Trello, es una herramienta digital de gestión de proyectos y tareas basada en la popular metodología Kanban. Funciona como un tablero #### visual en línea donde organizas tu trabajo mediante listas y tarjetas. Es ideal tanto para proyectos personales como para el trabajo #### en equipo.
+#### Por: Héctor Armando Gutiérrez Maldonado.
+
+
