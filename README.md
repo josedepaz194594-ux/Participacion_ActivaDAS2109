@@ -12,3 +12,11 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+### Moderador
+Definición:
+Es el responsable de gestionar y conducir el proceso de inspección. Asegura que todas las etapas de la revisión se lleven a cabo correctamente, coordina al equipo, establece el cronograma, facilita las reuniones y verifica que se sigan las normas del proceso.
+Autor del Código (o Autor del Artefacto)
+Definición:
+Es la persona que creó el producto o documento que se va a inspeccionar (por ejemplo, el código fuente, un diseño, un requisito, etc.). Su rol es explicar el producto, responder preguntas y corregir los defectos encontrados.
+
+Agregado por: Zenayda Marlene Carrillo Jovel  
