@@ -12,3 +12,7 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+#### Análisis de Riesgos: Proceso de identificación y evaluación de eventos que pueden afectar el éxito de un proyecto de software.
+#### Ejemplo: Detectar el riesgo de pérdida de información por falta de copias de seguridad.
+#### Agregado por: María Guadalupe Durán de Guzman — DG24004
+#### ************************************************
