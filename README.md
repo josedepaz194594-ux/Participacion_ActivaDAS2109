@@ -32,3 +32,8 @@
 #### Agregado por: Santos David Rodas Umanzor — RU21002
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+##Participacion_ActivaMM19034
+#### Python es un lenguaje de programación de alto nivel, interpretado y de código abierto. 
+#### Es famoso por su sintaxis sencilla y legible, muy similar al inglés. Esto lo convierte en el lenguaje ideal para principiantes y el favorito para proyectos de tecnología avanzada
+#### Agregado por Carlos Adalberto Moreno – MM19034
+
