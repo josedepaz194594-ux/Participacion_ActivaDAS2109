@@ -13,8 +13,13 @@
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
 ##Participacion_ActivaGL24015
 #### Diagrama UML: Unified Modeling Language o Lenguaje Unificado de Modelado
 #### Permite visualizar cómo estarán organizados los elementos de un sistema y cómo se relacionan entre sí.
 #### Agregado por Marta Lidia García López – GL24015
+
+#### Requerimiento Funcional: Describe una función o servicio que el sistema debe proporcionar a los usuarios.
+#### Ejemplo: El sistema debe permitir registrar nuevos estudiantes mediante un formulario.
+#### Agregado por: Santos David Rodas Umanzor — RU21002
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
