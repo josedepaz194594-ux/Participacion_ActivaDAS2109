@@ -12,3 +12,8 @@
 #### Creado por: Glenda Fuentes
 
 ####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Requerimiento Funcional: Describe una función o servicio que el sistema debe proporcionar a los usuarios.
+#### Ejemplo: El sistema debe permitir registrar nuevos estudiantes mediante un formulario.
+#### Agregado por: Santos David Rodas Umanzor — RU21002
+####::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
